@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+
+body {font-family:"Noto Sans KR";font-weight:400;font-size:15px;letter-spacing:-0.5px;color:#000;word-break:break-all;-webkit-text-size-adjust:none;line-height:1.2}
+/*.font_bm{font-family:'BMDOHYEON';}
+@font-face {
+	font-family:'BMDOHYEON';
+	font-weight:400;
+	font-style:normal;
+	src:url("../font/BMDoHyeon.eot?") format("eot"),
+	url("../font/BMDoHyeon.otf") format("opentype"),
+	url("../font/BMDoHyeon.woff") format("woff"),
+	url("../font/BMDoHyeon.woff2") format("woff2");
+}*/
+
+@font-face {
+	font-family:'Noto Sans KR';
+	font-weight:300;
+	font-style:normal;
+	src:url("../font/NotoSansKR-Light.eot?") format("eot"),
+	url("../font/NotoSansKR-Light.otf") format("opentype"),
+	url("../font/NotoSansKR-Light.woff") format("woff"),
+	url("../font/NotoSansKR-Light.woff2") format("woff2");
+}
+
+@font-face {
+	font-family:'Noto Sans KR';
+	font-weight:400;
+	font-style:normal;
+	src:url("../font/NotoSansKR-Regular.eot?") format("eot"),
+	url("../font/NotoSansKR-Regular.otf") format("opentype"),
+	url("../font/NotoSansKR-Regular.woff") format("woff"),
+	url("../font/NotoSansKR-Regular.woff2") format("woff2");
+}
+
+@font-face {
+	font-family:'Noto Sans KR';
+	font-weight:500;
+	font-style:normal;
+	src:url("../font/NotoSansKR-Medium.eot?") format("eot"),
+	url("../font/NotoSansKR-Medium.otf") format("opentype"),
+	url("../font/NotoSansKR-Medium.woff") format("woff"),
+	url("../font/NotoSansKR-Medium.woff2") format("woff2");
+}
+
+@font-face {
+	font-family:'Noto Sans KR';
+	font-weight:700;
+	font-style:normal;
+	src:url("../font/NotoSansKR-Bold.eot?") format("eot"),
+	url("../font/NotoSansKR-Bold.otf") format("opentype"),
+	url("../font/NotoSansKR-Bold.woff") format("woff"),
+	url("../font/NotoSansKR-Bold.woff2") format("woff2");
+}
+
+@font-face {
+	font-family:'Noto Sans KR';
+	font-weight:900;
+	font-style:normal;
+	src:url("../font/NotoSansKR-Black.eot?") format("eot"),
+	url("../font/NotoSansKR-Black.otf") format("opentype"),
+	url("../font/NotoSansKR-Black.woff") format("woff"),
+	url("../font/NotoSansKR-Black.woff2") format("woff2");
+}
