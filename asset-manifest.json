@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zikiz/static/css/main.ee781a76.css",
-    "main.js": "/zikiz/static/js/main.35d03bcb.js",
+    "main.js": "/zikiz/static/js/main.c3823033.js",
     "static/js/787.f587e8d5.chunk.js": "/zikiz/static/js/787.f587e8d5.chunk.js",
     "static/media/NotoSansKR-Black.otf": "/zikiz/static/media/NotoSansKR-Black.c25cdc16ac2fbdc6577e.otf",
     "static/media/NotoSansKR-Light.otf": "/zikiz/static/media/NotoSansKR-Light.7d4ce2f6f92cffc70600.otf",
@@ -37,11 +37,11 @@
     "static/media/NotoSansKR-Light.woff": "/zikiz/static/media/NotoSansKR-Light.b548203740217774df12.woff",
     "index.html": "/zikiz/index.html",
     "main.ee781a76.css.map": "/zikiz/static/css/main.ee781a76.css.map",
-    "main.35d03bcb.js.map": "/zikiz/static/js/main.35d03bcb.js.map",
+    "main.c3823033.js.map": "/zikiz/static/js/main.c3823033.js.map",
     "787.f587e8d5.chunk.js.map": "/zikiz/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee781a76.css",
-    "static/js/main.35d03bcb.js"
+    "static/js/main.c3823033.js"
   ]
 }
