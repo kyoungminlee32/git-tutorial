@@ -19,13 +19,13 @@ function AppMain() {
       <BrowserRouter>
         <Header />
         <Routes> 
-          <Route path="/" element={<Lo10101 />}></Route>
-          <Route path="/Lo10102" element={<Lo10102 />}></Route>
-          <Route path="/product/Lo10201" element={<Lo10201 />}></Route>
-          <Route path="/product/Lo10202" element={<Lo10202 />}></Route>
-          <Route path="/product/Lo10301" element={<Lo10301 />}></Route>
-          <Route path="/product/Re10101" element={<Re10101 />}></Route>
-          <Route path="/product/Re_10102" element={<Re10102 />}></Route>
+          <Route path="/zikiz/" element={<Lo10101 />}></Route>
+          <Route path="/zikiz/Lo10102" element={<Lo10102 />}></Route>
+          <Route path="/zikiz/product/Lo10201" element={<Lo10201 />}></Route>
+          <Route path="/zikiz/product/Lo10202" element={<Lo10202 />}></Route>
+          <Route path="/zikiz/product/Lo10301" element={<Lo10301 />}></Route>
+          <Route path="/zikiz/product/Re10101" element={<Re10101 />}></Route>
+          <Route path="/zikiz/product/Re_10102" element={<Re10102 />}></Route>
         </Routes> 
       </BrowserRouter>
     </div>

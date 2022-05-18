@@ -20,12 +20,12 @@ function Lo10102() {
               <input type="checkbox" name="ch1" id="autologin" defaultChecked />
               <label htmlFor="autologin">자동로그인</label>
               <div>
-                <Link to="/product/Lo10301">아이디 찾기</Link>
-                <Link to="/product/Lo10201">비밀번호 찾기</Link>
+                <Link to="/zikiz/product/Lo10301">아이디 찾기</Link>
+                <Link to="/zikiz/product/Lo10201">비밀번호 찾기</Link>
               </div>
             </div>
           </div>
-          <div className="btn_ci_box join_btn_box"><Link to="/product/Re10101" className="btn btn_in"><span>새 계정 만들기</span></Link></div>
+          <div className="btn_ci_box join_btn_box"><Link to="/zikiz/product/Re10101" className="btn btn_in"><span>새 계정 만들기</span></Link></div>
         </div>
         <BtnNext />
       </div>
